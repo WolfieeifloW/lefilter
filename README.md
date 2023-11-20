@@ -18,7 +18,7 @@ Looking for my LoD filters? Check them out [HERE](https://github.com/Wolfieeiflo
 7. [Disclaimer](https://github.com/WolfieeifloW/lefilter#disclaimer)
 
 # Loot Filter
-### [Wolfie Filter](https://raw.githubusercontent.com/WolfieeifloW/lefilter/main/wolfie-filter.xml)  
+### [Wolfie Filter](https://github.com/WolfieeifloW/lefilter/blob/main/Wolfie%20Filter.xml)  
 
 # Discord
 Discord link: [WolfieeifloW's ARPG Projects](https://discord.gg/6bM8AtYGAq)  
