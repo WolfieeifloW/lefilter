@@ -7,7 +7,7 @@ Looking for my LoD filters? Check them out [HERE](https://github.com/Wolfieeiflo
 
 # Table of Contents
 1. [Loot Filter](https://github.com/WolfieeifloW/lefilter#loot-filter)
-   * [Detailed](https://github.com/WolfieeifloW/lefilter#wolfie-filter)
+   * [Wolfie Filter](https://github.com/WolfieeifloW/lefilter#wolfie-filter)
 2. [Discord](https://github.com/WolfieeifloW/lefilter#discord)
 3. [Donations](https://github.com/WolfieeifloW/lefilter#donations)
 4. [Informative Links](https://github.com/WolfieeifloW/lefilter#informative-links)
@@ -16,7 +16,7 @@ Looking for my LoD filters? Check them out [HERE](https://github.com/Wolfieeiflo
 7. [Disclaimer](https://github.com/WolfieeifloW/lefilter#disclaimer)
 
 # Loot Filter
-### [Detailed](https://raw.githubusercontent.com/WolfieeifloW/lefilter/main/wolfie-filter.xml)  
+### [Wolfie Filter](https://raw.githubusercontent.com/WolfieeifloW/lefilter/main/wolfie-filter.xml)  
 
 # Discord
 Discord link: [WolfieeifloW's ARPG Projects](https://discord.gg/6bM8AtYGAq)  
