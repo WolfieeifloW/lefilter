@@ -8,11 +8,7 @@
   <rules>
     <Rule>
       <type>HIDE</type>
-      <conditions>
-        <Condition i:type="RarityCondition">
-          <rarity>NORMAL MAGIC RARE</rarity>
-        </Condition>
-      </conditions>
+      <conditions />
       <color>0</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
@@ -1651,6 +1647,46 @@
             <int>484</int>
             <int>510</int>
             <int>111</int>
+            <int>134</int>
+            <int>139</int>
+            <int>138</int>
+            <int>140</int>
+            <int>441</int>
+            <int>445</int>
+            <int>447</int>
+            <int>450</int>
+            <int>452</int>
+            <int>456</int>
+            <int>464</int>
+            <int>465</int>
+            <int>466</int>
+            <int>467</int>
+            <int>472</int>
+            <int>474</int>
+            <int>478</int>
+            <int>495</int>
+            <int>497</int>
+            <int>499</int>
+            <int>508</int>
+            <int>514</int>
+            <int>516</int>
+            <int>520</int>
+            <int>522</int>
+            <int>523</int>
+            <int>525</int>
+            <int>527</int>
+            <int>538</int>
+            <int>668</int>
+            <int>518</int>
+            <int>118</int>
+            <int>444</int>
+            <int>476</int>
+            <int>482</int>
+            <int>488</int>
+            <int>492</int>
+            <int>493</int>
+            <int>535</int>
+            <int>533</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -1666,7 +1702,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>false</emphasized>
-      <nameOverride>All Idols w/ Good Affixes (Rogue)</nameOverride>
+      <nameOverride>All Idols w/ 1+ Good Affixes (Rogue)</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -1705,6 +1741,46 @@
             <int>484</int>
             <int>510</int>
             <int>111</int>
+            <int>134</int>
+            <int>139</int>
+            <int>138</int>
+            <int>140</int>
+            <int>441</int>
+            <int>445</int>
+            <int>447</int>
+            <int>450</int>
+            <int>452</int>
+            <int>456</int>
+            <int>464</int>
+            <int>465</int>
+            <int>466</int>
+            <int>467</int>
+            <int>472</int>
+            <int>474</int>
+            <int>478</int>
+            <int>495</int>
+            <int>497</int>
+            <int>499</int>
+            <int>508</int>
+            <int>514</int>
+            <int>516</int>
+            <int>520</int>
+            <int>522</int>
+            <int>523</int>
+            <int>525</int>
+            <int>527</int>
+            <int>538</int>
+            <int>668</int>
+            <int>518</int>
+            <int>118</int>
+            <int>444</int>
+            <int>476</int>
+            <int>482</int>
+            <int>488</int>
+            <int>492</int>
+            <int>493</int>
+            <int>535</int>
+            <int>533</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -1772,6 +1848,26 @@
             <int>270</int>
             <int>326</int>
             <int>111</int>
+            <int>134</int>
+            <int>195</int>
+            <int>196</int>
+            <int>205</int>
+            <int>208</int>
+            <int>209</int>
+            <int>211</int>
+            <int>271</int>
+            <int>274</int>
+            <int>275</int>
+            <int>279</int>
+            <int>280</int>
+            <int>283</int>
+            <int>298</int>
+            <int>299</int>
+            <int>300</int>
+            <int>301</int>
+            <int>658</int>
+            <int>659</int>
+            <int>307</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -1787,7 +1883,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>false</emphasized>
-      <nameOverride>All Idols w/ Good Affixes (Sentinel)</nameOverride>
+      <nameOverride>All Idols w/ 1+ Good Affixes (Sentinel)</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -1839,6 +1935,26 @@
             <int>270</int>
             <int>326</int>
             <int>111</int>
+            <int>134</int>
+            <int>195</int>
+            <int>196</int>
+            <int>205</int>
+            <int>208</int>
+            <int>209</int>
+            <int>211</int>
+            <int>271</int>
+            <int>274</int>
+            <int>275</int>
+            <int>279</int>
+            <int>280</int>
+            <int>283</int>
+            <int>298</int>
+            <int>299</int>
+            <int>300</int>
+            <int>301</int>
+            <int>658</int>
+            <int>659</int>
+            <int>307</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -1903,6 +2019,41 @@
             <int>157</int>
             <int>115</int>
             <int>111</int>
+            <int>108</int>
+            <int>109</int>
+            <int>126</int>
+            <int>131</int>
+            <int>130</int>
+            <int>133</int>
+            <int>144</int>
+            <int>146</int>
+            <int>148</int>
+            <int>152</int>
+            <int>153</int>
+            <int>154</int>
+            <int>163</int>
+            <int>216</int>
+            <int>218</int>
+            <int>221</int>
+            <int>223</int>
+            <int>224</int>
+            <int>225</int>
+            <int>226</int>
+            <int>227</int>
+            <int>229</int>
+            <int>230</int>
+            <int>231</int>
+            <int>232</int>
+            <int>233</int>
+            <int>235</int>
+            <int>685</int>
+            <int>160</int>
+            <int>161</int>
+            <int>170</int>
+            <int>171</int>
+            <int>172</int>
+            <int>173</int>
+            <int>664</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -1918,7 +2069,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>false</emphasized>
-      <nameOverride>All Idols w/ Good Affixes (Primalist)</nameOverride>
+      <nameOverride>All Idols w/ 1+ Good Affixes (Primalist)</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -1967,6 +2118,41 @@
             <int>157</int>
             <int>115</int>
             <int>111</int>
+            <int>108</int>
+            <int>109</int>
+            <int>126</int>
+            <int>131</int>
+            <int>130</int>
+            <int>133</int>
+            <int>144</int>
+            <int>146</int>
+            <int>148</int>
+            <int>152</int>
+            <int>153</int>
+            <int>154</int>
+            <int>163</int>
+            <int>216</int>
+            <int>218</int>
+            <int>221</int>
+            <int>223</int>
+            <int>224</int>
+            <int>225</int>
+            <int>226</int>
+            <int>227</int>
+            <int>229</int>
+            <int>230</int>
+            <int>231</int>
+            <int>232</int>
+            <int>233</int>
+            <int>235</int>
+            <int>685</int>
+            <int>160</int>
+            <int>161</int>
+            <int>170</int>
+            <int>171</int>
+            <int>172</int>
+            <int>173</int>
+            <int>664</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -2029,6 +2215,26 @@
             <int>430</int>
             <int>115</int>
             <int>111</int>
+            <int>174</int>
+            <int>178</int>
+            <int>179</int>
+            <int>180</int>
+            <int>182</int>
+            <int>185</int>
+            <int>239</int>
+            <int>241</int>
+            <int>242</int>
+            <int>327</int>
+            <int>328</int>
+            <int>651</int>
+            <int>657</int>
+            <int>689</int>
+            <int>692</int>
+            <int>167</int>
+            <int>246</int>
+            <int>697</int>
+            <int>716</int>
+            <int>685</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -2044,7 +2250,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>false</emphasized>
-      <nameOverride>All Idols w/ Good Affixes (Mage)</nameOverride>
+      <nameOverride>All Idols w/ 1+ Good Affixes (Mage)</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -2091,6 +2297,26 @@
             <int>430</int>
             <int>115</int>
             <int>111</int>
+            <int>174</int>
+            <int>178</int>
+            <int>179</int>
+            <int>180</int>
+            <int>182</int>
+            <int>185</int>
+            <int>239</int>
+            <int>241</int>
+            <int>242</int>
+            <int>327</int>
+            <int>328</int>
+            <int>651</int>
+            <int>657</int>
+            <int>689</int>
+            <int>692</int>
+            <int>167</int>
+            <int>246</int>
+            <int>697</int>
+            <int>716</int>
+            <int>685</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -2151,6 +2377,24 @@
             <int>293</int>
             <int>313</int>
             <int>322</int>
+            <int>134</int>
+            <int>138</int>
+            <int>140</int>
+            <int>321</int>
+            <int>324</int>
+            <int>325</int>
+            <int>258</int>
+            <int>260</int>
+            <int>268</int>
+            <int>269</int>
+            <int>286</int>
+            <int>288</int>
+            <int>290</int>
+            <int>296</int>
+            <int>304</int>
+            <int>308</int>
+            <int>309</int>
+            <int>315</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -2166,7 +2410,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>false</emphasized>
-      <nameOverride>All Idols w/ Good Affixes (Acolyte)</nameOverride>
+      <nameOverride>All Idols w/ 1+ Good Affixes (Acolyte)</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -2211,6 +2455,24 @@
             <int>293</int>
             <int>313</int>
             <int>322</int>
+            <int>134</int>
+            <int>138</int>
+            <int>140</int>
+            <int>321</int>
+            <int>324</int>
+            <int>325</int>
+            <int>258</int>
+            <int>260</int>
+            <int>268</int>
+            <int>269</int>
+            <int>286</int>
+            <int>288</int>
+            <int>290</int>
+            <int>296</int>
+            <int>304</int>
+            <int>308</int>
+            <int>309</int>
+            <int>315</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
