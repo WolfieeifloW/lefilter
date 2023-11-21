@@ -113,7 +113,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
+      <emphasized>false</emphasized>
       <nameOverride>items w/ 1+ Good Generic T5+ Affix (Shatter)</nameOverride>
     </Rule>
     <Rule>
