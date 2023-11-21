@@ -37,6 +37,90 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
+            <int>502</int>
+            <int>505</int>
+            <int>501</int>
+            <int>503</int>
+            <int>504</int>
+            <int>25</int>
+            <int>36</int>
+            <int>52</int>
+            <int>17</int>
+            <int>31</int>
+            <int>1</int>
+            <int>24</int>
+            <int>80</int>
+            <int>58</int>
+            <int>34</int>
+            <int>331</int>
+            <int>10</int>
+            <int>45</int>
+            <int>19</int>
+            <int>7</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>3</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>5</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>false</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>false</emphasized>
+      <nameOverride>items w/ 1+ Good Generic T3+ Affix (Shatter)</nameOverride>
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>502</int>
+            <int>505</int>
+            <int>501</int>
+            <int>503</int>
+            <int>504</int>
+            <int>25</int>
+            <int>36</int>
+            <int>52</int>
+            <int>17</int>
+            <int>31</int>
+            <int>1</int>
+            <int>24</int>
+            <int>80</int>
+            <int>58</int>
+            <int>34</int>
+            <int>331</int>
+            <int>10</int>
+            <int>45</int>
+            <int>19</int>
+            <int>7</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>5</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>5</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride>items w/ 1+ Good Generic T5+ Affix (Shatter)</nameOverride>
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
             <int>384</int>
             <int>401</int>
             <int>402</int>
@@ -323,13 +407,13 @@
           <advanced>true</advanced>
         </Condition>
       </conditions>
-      <color>4</color>
+      <color>0</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
-      <emphasized>false</emphasized>
-      <nameOverride>items w/ one class-specific T5+ Affix (Shatter)</nameOverride>
+      <emphasized>true</emphasized>
+      <nameOverride>items w/ 1+ Good class-specific T5+ Affix (Shatter)</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -815,7 +899,7 @@
           <advanced>true</advanced>
         </Condition>
       </conditions>
-      <color>10</color>
+      <color>8</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
@@ -1262,7 +1346,7 @@
           <advanced>true</advanced>
         </Condition>
       </conditions>
-      <color>10</color>
+      <color>8</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
@@ -1335,6 +1419,8 @@
             <int>19</int>
             <int>7</int>
             <int>142</int>
+            <int>45</int>
+            <int>13</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>3</comparsionValue>
@@ -1347,7 +1433,7 @@
           <rarity>RARE</rarity>
         </Condition>
       </conditions>
-      <color>9</color>
+      <color>3</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
@@ -1420,6 +1506,8 @@
             <int>19</int>
             <int>7</int>
             <int>142</int>
+            <int>13</int>
+            <int>45</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>3</comparsionValue>
@@ -1432,7 +1520,7 @@
           <rarity>RARE</rarity>
         </Condition>
       </conditions>
-      <color>9</color>
+      <color>3</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
@@ -1517,7 +1605,7 @@
           <rarity>EXALTED</rarity>
         </Condition>
       </conditions>
-      <color>9</color>
+      <color>10</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
@@ -1602,7 +1690,7 @@
           <rarity>EXALTED</rarity>
         </Condition>
       </conditions>
-      <color>9</color>
+      <color>10</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
