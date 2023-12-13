@@ -1,7 +1,5 @@
 # Wolfie's Last Epoch Loot Filter
 
-# !!! DO NOT USE THIS FILTER YET. IT IS NOT READY TO USE IN-GAME !!!
-
 I have created a Discord so that you can be notified when I update my filter. Take a look [HERE](https://github.com/WolfieeifloW/lefilter#discord) for more info!  
 Looking for a PlugY Stash to test the filter? Check it out [HERE](https://github.com/WolfieeifloW/LoD-PlugY-Stash)!  
 Looking for my PD2 filters? Check them out [HERE](https://github.com/WolfieeifloW/pd2filter)!  
