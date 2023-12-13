@@ -8,7 +8,7 @@ Looking for a PlugY Stash to test the filter? Check it out [HERE](https://github
 # Table of Contents
 1. [Installation](https://github.com/WolfieeifloW/lefilter#installation)
    * [XML Download](https://github.com/WolfieeifloW/lefilter#xml-download)
-   * [Copy/Paste](https://github.com/WolfieeifloW/lefilter#copy-paste)
+   * [Copy/Paste](https://github.com/WolfieeifloW/lefilter#copypaste)
 3. [Loot Filter](https://github.com/WolfieeifloW/lefilter#loot-filter)
    * [Wolfie Filter](https://github.com/WolfieeifloW/lefilter#wolfie-filter)
 4. [Discord](https://github.com/WolfieeifloW/lefilter#discord)
